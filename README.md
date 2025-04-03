@@ -20,7 +20,7 @@ I'm a passionate software developer and student at PLP Academy, always eager to 
 ### [Cooking & Baking Blog](#)
 A personal website where I share cooking and baking recipes with an interactive UI.
 
-*(More projects coming soon!)*
+
 
 ---
 
